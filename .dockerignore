@@ -1,0 +1,5 @@
+.git
+.env
+plow-credentials
+**/__pycache__
+test_smoke.py
